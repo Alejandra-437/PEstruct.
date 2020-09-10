@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "random": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "problems.showCurrentInStatus": true
+}
